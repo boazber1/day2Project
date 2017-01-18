@@ -1,0 +1,27 @@
+.stage {
+    margin: 0px;
+}
+
+.col {
+    width: 7vh;
+    height: 7vh;
+    margin: 1px;
+    border: solid 1px #e1e1e1;
+    float: left;
+}
+
+.black {
+    background-color: #000;
+}
+
+.row {
+    margin: 0px;
+    overflow: hidden;
+    border-color: red;
+}
+
+.food{
+    border-color: darkgreen;
+    border-width: 2.5px;
+    background-color: red;
+}
